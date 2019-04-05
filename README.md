@@ -15,8 +15,8 @@ host0=192.168.0.1								#Host Adresse 1
 user0=username									#Username 1
 destdir0=/mnt/hdd2								#Verzeichnis auf dem Ziel in das Gebackupt wird
 sshport1=222									#SSH Port 2
-host1=											#Hoast Adresse 2
-user1=user										#Username 2
+host1=										#Hoast Adresse 2
+user1=user									#Username 2
 destdir1=/hdd3									#Verzeichnis auf dem Ziel in das Gebackupt wird
 
 ```
