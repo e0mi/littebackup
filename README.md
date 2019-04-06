@@ -1,4 +1,4 @@
-# LittleDumpBackup
+# LittleBackup
 
 Das Script ist bei einem Project entstanden
 
