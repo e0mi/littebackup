@@ -38,5 +38,5 @@ done
 done
 end=$(date +%s)
 
-echo "claimed time:" $(($start - $end)) "seconds"
+echo "claimed time:" $(($end - $start)) "seconds"
 
