@@ -1,4 +1,4 @@
-# LittleDumpBackup
+# LittleBackup
 
 Das Script ist bei einem Project entstanden
 
@@ -24,7 +24,7 @@ destdir1=/hdd3									#Verzeichnis auf dem Ziel in das Gebackupt wird
 ### Start
 
 Das Script wird mit 
-´´´´
-./littledumpbackup.sh 
-´´´
+```
+./littlebackup.sh 
+```
 gestartet.
