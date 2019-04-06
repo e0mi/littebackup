@@ -24,7 +24,7 @@ destdir1=/hdd3									#Verzeichnis auf dem Ziel in das Gebackupt wird
 ### Start
 
 Das Script wird mit 
-´´´´
+```
 ./littlebackup.sh 
-´´´
+```
 gestartet.
