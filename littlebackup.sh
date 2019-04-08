@@ -23,7 +23,7 @@ do
 
         dir="dir"$i""
             ((i++))
-		rsync --numeric-ids -avz -e "ssh -p ${!sshport}" ${!dir}  ${!user}@${!host}:$destdir
+		rsync --numeric-ids -avz -e "ssh -p ${!sshport}" ${!dir}  ${!user}@${!host}:${!destdir}
 
         #       rclone --checksum  --copy-links copy $source:${!back} $dest:${!rdestdir}${!back}
 
